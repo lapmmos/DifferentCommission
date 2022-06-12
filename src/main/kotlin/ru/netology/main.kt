@@ -1,7 +1,8 @@
+package ru.netology
 
 fun main() {
 
-    var currentMonthAmount: Long = 0
+    var currentMonthAmount: Long
     val cardOrAccountType: String
     val transferAmount: Long
 
